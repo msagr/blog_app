@@ -1,0 +1,7 @@
+## URLs & Views
+
+1. / --> Load starting page which lists latest blog posts & some welcome text.
+
+2. /posts --> Loads page which lists all posts.
+
+3. /posts/my-first-post --> Loads individual blog post page which shows bull blog post.
